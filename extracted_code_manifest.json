@@ -1,0 +1,394 @@
+[
+  {
+    "title": "代码清单1-1: 确认 Node 与 npm 就绪",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 67,
+    "extracted_file": "src\\代码清单1-1_ 确认 Node 与 npm 就绪.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单1-2: 全局安装 Pi（官方 quickstart 命令）",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 77,
+    "extracted_file": "src\\代码清单1-2_ 全局安装 Pi（官方 quickstart 命令）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单1-3: 版本确认",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 85,
+    "extracted_file": "src\\代码清单1-3_ 版本确认.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-1: Windows 原生路径就绪确认",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 30,
+    "extracted_file": "src\\代码清单2-1_ Windows 原生路径就绪确认.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-2: 建立练习目录",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 72,
+    "extracted_file": "src\\代码清单2-2_ 建立练习目录.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-3: 沙盘道具 bug.js（自带一处缺陷的 slugify）",
+    "lang": "javascript",
+    "chapter_file": "chapter-002.md",
+    "line": 83,
+    "extracted_file": "src\\代码清单2-3_ 沙盘道具 bug.js（自带一处缺陷的 slugify）.js",
+    "source": null
+  },
+  {
+    "title": "代码清单2-4: 沙盘道具 test.js（三个用例的验证器）",
+    "lang": "javascript",
+    "chapter_file": "chapter-002.md",
+    "line": 99,
+    "extracted_file": "src\\代码清单2-4_ 沙盘道具 test.js（三个用例的验证器）.js",
+    "source": null
+  },
+  {
+    "title": "代码清单2-6: 修复后复验 node test.js",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 188,
+    "extracted_file": "src\\代码清单2-6_ 修复后复验 node test.js.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单3-1: 双 bug 标本 rank.js（修复前）",
+    "lang": "javascript",
+    "chapter_file": "chapter-003.md",
+    "line": 36,
+    "extracted_file": "src\\代码清单3-1_ 双 bug 标本 rank.js（修复前）.js",
+    "source": null
+  },
+  {
+    "title": "代码清单3-3: Pi 修复后的 rank.js（实测）",
+    "lang": "javascript",
+    "chapter_file": "chapter-003.md",
+    "line": 125,
+    "extracted_file": "src\\代码清单3-3_ Pi 修复后的 rank.js（实测）.js",
+    "source": null
+  },
+  {
+    "title": "代码清单4-2: 双跑任务的验证器 pal.test.js",
+    "lang": "javascript",
+    "chapter_file": "chapter-004.md",
+    "line": 45,
+    "extracted_file": "src\\代码清单4-2_ 双跑任务的验证器 pal.test.js.js",
+    "source": null
+  },
+  {
+    "title": "代码清单4-3: 模型 A（主力档）的 isPalindrome 实现（实测）",
+    "lang": "javascript",
+    "chapter_file": "chapter-004.md",
+    "line": 94,
+    "extracted_file": "src\\代码清单4-3_ 模型 A（主力档）的 isPalindrome 实现（实测）.js",
+    "source": null
+  },
+  {
+    "title": "代码清单4-4: 模型 B（轻量档）的 isPalindrome 实现（实测）",
+    "lang": "javascript",
+    "chapter_file": "chapter-004.md",
+    "line": 108,
+    "extracted_file": "src\\代码清单4-4_ 模型 B（轻量档）的 isPalindrome 实现（实测）.js",
+    "source": null
+  },
+  {
+    "title": "代码清单5-2: 建立本章演示目录",
+    "lang": "bash",
+    "chapter_file": "chapter-005.md",
+    "line": 87,
+    "extracted_file": "src\\代码清单5-2_ 建立本章演示目录.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单5-3: 演示道具 sample.js",
+    "lang": "javascript",
+    "chapter_file": "chapter-005.md",
+    "line": 94,
+    "extracted_file": "src\\代码清单5-3_ 演示道具 sample.js.js",
+    "source": null
+  },
+  {
+    "title": "代码清单6-1: 建立本章演示目录",
+    "lang": "bash",
+    "chapter_file": "chapter-006.md",
+    "line": 25,
+    "extracted_file": "src\\代码清单6-1_ 建立本章演示目录.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单7-3: 一键续接（实测）",
+    "lang": "bash",
+    "chapter_file": "chapter-007.md",
+    "line": 50,
+    "extracted_file": "src\\代码清单7-3_ 一键续接（实测）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单7-4: 续接相关启动旗标速览（实测行为）",
+    "lang": "bash",
+    "chapter_file": "chapter-007.md",
+    "line": 59,
+    "extracted_file": "src\\代码清单7-4_ 续接相关启动旗标速览（实测行为）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单8-1: 基线实测：node --test（7 项，6 过 1 败）",
+    "lang": "bash",
+    "chapter_file": "chapter-008.md",
+    "line": 21,
+    "extracted_file": "src\\代码清单8-1_ 基线实测：node --test（7 项，6 过 1 败）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单9-1: 基线实测：node --test（10 项全过）",
+    "lang": "bash",
+    "chapter_file": "chapter-009.md",
+    "line": 29,
+    "extracted_file": "src\\代码清单9-1_ 基线实测：node --test（10 项全过）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单11-3: hello.js，官方 hello 示例的 js 形态（教学片段，非仓内文件）",
+    "lang": "javascript",
+    "chapter_file": "chapter-011.md",
+    "line": 106,
+    "extracted_file": "src\\代码清单11-3_ hello.js，官方 hello 示例的 js 形态（教学片段，非仓内文件）.js",
+    "source": null
+  },
+  {
+    "title": "代码清单14-1: wc-ext/package.json（第一个版本）",
+    "lang": "json",
+    "chapter_file": "chapter-014.md",
+    "line": 41,
+    "extracted_file": "src\\代码清单14-1_ wc-ext_package.json（第一个版本）.json",
+    "source": null
+  },
+  {
+    "title": "代码清单14-2: wc-ext/index.ts（上）：统计核心，两清单相接即全部可执行代码",
+    "lang": "typescript",
+    "chapter_file": "chapter-014.md",
+    "line": 63,
+    "extracted_file": "src\\代码清单14-2_ wc-ext_index.ts（上）：统计核心，两清单相接即全部可执行代码.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单14-3: wc-ext/index.ts（下）：双注入面，与上清单相接即全部可执行代码",
+    "lang": "typescript",
+    "chapter_file": "chapter-014.md",
+    "line": 95,
+    "extracted_file": "src\\代码清单14-3_ wc-ext_index.ts（下）：双注入面，与上清单相接即全部可执行代码.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-1: 批量统一修改脚本（pi-ch15batch 场地，模型已化名；提示词折行系排版，实跑为单行）",
+    "lang": "bash",
+    "chapter_file": "chapter-015.md",
+    "line": 33,
+    "extracted_file": "src\\代码清单15-1_ 批量统一修改脚本（pi-ch15batch 场地，模型已化名；提示词折行系排版，实跑为单行）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单15-5: eventstats.py 全文（管道实时统计，实测原件照录）",
+    "lang": "python",
+    "chapter_file": "chapter-015.md",
+    "line": 123,
+    "extracted_file": "src\\代码清单15-5_ eventstats.py 全文（管道实时统计，实测原件照录）.py",
+    "source": null
+  },
+  {
+    "title": "代码清单16-1: SDK 场地准备（锁冻结版本，与 CLI 同版本）",
+    "lang": "bash",
+    "chapter_file": "chapter-016.md",
+    "line": 36,
+    "extracted_file": "src\\代码清单16-1_ SDK 场地准备（锁冻结版本，与 CLI 同版本）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单16-2: qa-app.ts 全文（教学码，提供商与模型已化名）",
+    "lang": "typescript",
+    "chapter_file": "chapter-016.md",
+    "line": 48,
+    "extracted_file": "src\\代码清单16-2_ qa-app.ts 全文（教学码，提供商与模型已化名）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-5: rpc-drive.py 全文（教学码，模型已化名）",
+    "lang": "python",
+    "chapter_file": "chapter-016.md",
+    "line": 144,
+    "extracted_file": "src\\代码清单16-5_ rpc-drive.py 全文（教学码，模型已化名）.py",
+    "source": null
+  },
+  {
+    "title": "代码清单17-1: 流水线场地准备（沿用第 16 章同款，锁冻结版本）",
+    "lang": "bash",
+    "chapter_file": "chapter-017.md",
+    "line": 36,
+    "extracted_file": "src\\代码清单17-1_ 流水线场地准备（沿用第 16 章同款，锁冻结版本）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单17-2: pipeline.ts 主链节选（任务清单+核验器+主 try 链；教学码，提供商与模型已化名）",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 47,
+    "extracted_file": "src\\代码清单17-2_ pipeline.ts 主链节选（任务清单+核验器+主 try 链；教学码，提供商与模型已化名）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-4: 健康跑产出物 report.md（截至冻结版本实测，模型已化名）",
+    "lang": "markdown",
+    "chapter_file": "chapter-017.md",
+    "line": 199,
+    "extracted_file": "src\\代码清单17-4_ 健康跑产出物 report.md（截至冻结版本实测，模型已化名）.md",
+    "source": null
+  },
+  {
+    "title": "代码清单18-1: 流水线场地准备（练习沙盘 git 仓，路径已化名）",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 45,
+    "extracted_file": "src\\代码清单18-1_ 流水线场地准备（练习沙盘 git 仓，路径已化名）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单18-2: pipeline.sh 四段主链节选（教学码，提供商与模型已化名）",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 58,
+    "extracted_file": "src\\代码清单18-2_ pipeline.sh 四段主链节选（教学码，提供商与模型已化名）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单18-4: 正路跑绿产出物 summary.final（全文；截至冻结版本实测，模型已化名）",
+    "lang": "markdown",
+    "chapter_file": "chapter-018.md",
+    "line": 138,
+    "extracted_file": "src\\代码清单18-4_ 正路跑绿产出物 summary.final（全文；截至冻结版本实测，模型已化名）.md",
+    "source": null
+  },
+  {
+    "title": "代码清单18-7: pr-summary 流水线 workflow 教学配置（凭据走 secrets，平台行为不对码）",
+    "lang": "yaml",
+    "chapter_file": "chapter-018.md",
+    "line": 192,
+    "extracted_file": "src\\代码清单18-7_ pr-summary 流水线 workflow 教学配置（凭据走 secrets，平台行为不对码）.yml",
+    "source": null
+  },
+  {
+    "title": "代码清单19-1: pipeline19.ts 主链节选（授权面进会话配置；教学码，提供商与模型已化名）",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 32,
+    "extracted_file": "src\\代码清单19-1_ pipeline19.ts 主链节选（授权面进会话配置；教学码，提供商与模型已化名）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-4: CLI 无头通道白名单双验证（截至冻结版本实测，模型已化名）",
+    "lang": "bash",
+    "chapter_file": "chapter-019.md",
+    "line": 150,
+    "extracted_file": "src\\代码清单19-4_ CLI 无头通道白名单双验证（截至冻结版本实测，模型已化名）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单20-1: 冻结 tag 检出独立工作区（实测画面全文照录；路径与作者已化名）",
+    "lang": "bash",
+    "chapter_file": "chapter-020.md",
+    "line": 26,
+    "extracted_file": "src\\代码清单20-1_ 冻结 tag 检出独立工作区（实测画面全文照录；路径与作者已化名）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单21-1: 检出契约仓与三重基线（实测画面节选；路径已化名）",
+    "lang": "bash",
+    "chapter_file": "chapter-021.md",
+    "line": 40,
+    "extracted_file": "src\\代码清单21-1_ 检出契约仓与三重基线（实测画面节选；路径已化名）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单21-2: 追加进 TypeSpec 真源的定义块（实测照录）",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 85,
+    "extracted_file": "src\\代码清单21-2_ 追加进 TypeSpec 真源的定义块（实测照录）.ts",
+    "source": "code/saas-identity-platform-shared/tsp/routes/tenant-members.tsp"
+  },
+  {
+    "title": "代码清单21-5: openapi.yaml 新增路径块（实测照录）",
+    "lang": "yaml",
+    "chapter_file": "chapter-021.md",
+    "line": 171,
+    "extracted_file": "src\\代码清单21-5_ openapi.yaml 新增路径块（实测照录）.yml",
+    "source": "code/saas-identity-platform-shared/generated/openapi/openapi.yaml"
+  },
+  {
+    "title": "代码清单22-1: Pi 无头执行与变更画面（实测节选；git 变更行按实测记录整理，路径与模型已化名）",
+    "lang": "bash",
+    "chapter_file": "chapter-022.md",
+    "line": 40,
+    "extracted_file": "src\\代码清单22-1_ Pi 无头执行与变更画面（实测节选；git 变更行按实测记录整理，路径与模型已化名）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单22-2: 0003 号迁移脚本全文（实测照录）",
+    "lang": "sql",
+    "chapter_file": "chapter-022.md",
+    "line": 73,
+    "extracted_file": "src\\代码清单22-2_ 0003 号迁移脚本全文（实测照录）.sql",
+    "source": "code/saas-identity-platform-shared/drizzle/0003_red_polaris.sql"
+  },
+  {
+    "title": "代码清单22-3: 基线幂等、落库执行与版本画面（实测节选；连接串与库名已化名，横幅表情略）",
+    "lang": "bash",
+    "chapter_file": "chapter-022.md",
+    "line": 99,
+    "extracted_file": "src\\代码清单22-3_ 基线幂等、落库执行与版本画面（实测节选；连接串与库名已化名，横幅表情略）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单22-4: 插入与查询实测（语句按实测要点整理；输出行与报错照录）",
+    "lang": "bash",
+    "chapter_file": "chapter-022.md",
+    "line": 127,
+    "extracted_file": "src\\代码清单22-4_ 插入与查询实测（语句按实测要点整理；输出行与报错照录）.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单24-3: accept-invitation 页面全文（实测照录）",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 102,
+    "extracted_file": "src\\代码清单24-3_ accept-invitation 页面全文（实测照录）.tsx",
+    "source": "code/saas-identity-platform-nextjs/src/app/accept-invitation/page.tsx"
+  },
+  {
+    "title": "代码清单33-2: 埋设 diff（两处各一行，实测照录，化名提交 7842be3）",
+    "lang": "diff",
+    "chapter_file": "chapter-033.md",
+    "line": 40,
+    "extracted_file": "src\\代码清单33-2_ 埋设 diff（两处各一行，实测照录，化名提交 7842be3）.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单33-6: 修复 diff（两端回基线域，实测照录，化名提交 79b4bae）",
+    "lang": "diff",
+    "chapter_file": "chapter-033.md",
+    "line": 138,
+    "extracted_file": "src\\代码清单33-6_ 修复 diff（两端回基线域，实测照录，化名提交 79b4bae）.txt",
+    "source": null
+  }
+]

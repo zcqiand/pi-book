@@ -1,0 +1,19 @@
+--- a/src/app/api/test-records/route.ts
++++ b/src/app/api/test-records/route.ts
+@@ -44,6 +44,8 @@ export async function POST(req: Request) {
+     createdAt: NOW(),
+     updatedAt: NOW(),
+     ...body,
++    // 演练道具（数据层半）：写入端参数码规范化到下划线域
++    parameterCode: String(body.parameterCode ?? "").replace(/-/g, "_"),
+     tenantId: auth.tenantId,
+   };
+# ── 前端半 ──
+--- a/src/features/data-entry/DataEntryPage.tsx
++++ b/src/features/data-entry/DataEntryPage.tsx
+@@ -550,7 +550,7 @@ export function EntryModal({
+                     </p>
+                   )}
+                   {parameters.map((p) => {
+-                    const rec = recordByParam.get(p.code);
++                    const rec = recordByParam.get(p.code.replace(/-/g, "_"));

@@ -1,0 +1,15 @@
+{
+  "name": "pi-wc-ext",
+  "version": "1.0.0",
+  "description": "章节字数统计扩展：/wc 命令 + word_count 工具（剥除围栏代码块后统计）",
+  "type": "module",
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-ai": "*"
+  }
+}
